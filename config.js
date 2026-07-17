@@ -39,6 +39,11 @@ const config = {
                 bio_es: "Programador de plugins y optimización del servidor.",
                 bio_en: "Plugin developer and server optimization specialist."
             },
+            { 
+                name: "AuraManav", role: "DEV", 
+                bio_es: "Programador de plugins y optimización del servidor.",
+                bio_en: "Server helper and de-facto co owner."
+            },
         ],
 
         // --- REGLAS (8 Reglas Comunes) ---
